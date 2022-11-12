@@ -4,4 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-# This line was added from "somebranch2" branch
+# this line added in "somebranch" branch
